@@ -1,0 +1,91 @@
+
+
+/* -------------- */
+/* General Styles */
+/* -------------- */
+
+/* These styles apply to the whole document */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #eeeeee;
+	color: #111;
+}
+
+.wrapper {
+	margin: 50px auto;
+	max-width: 900px;
+	padding: 20px;
+}
+
+/* For responsive images */
+img {
+	max-width: 100%;
+}
+
+
+
+/* ---------- */
+/* Typography */
+/* ---------- */
+
+/* Anything to do with text. Keep base elements (h1, h2, etc.) at the top, and more specific elements at the bottom (.subtitle, .caption, etc.) */
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+}
+
+
+/* ------ */
+/* Header */
+/* ------ */
+
+
+
+/* ------- */
+/* Content */
+/* ------- */
+
+
+
+/* ------ */
+/* Footer */
+/* ------ */
+
+
+
+/* ------- */
+/* Utility */
+/* ------- */
+
+
+
+/* ------------- */
+/* Media Queries */
+/* ------------- */
+
+@media(min-width: 640px) {
+
+	/* Styles for tablets and larger phones */
+
+}
+
+
+@media(min-width: 960px) {
+
+	/* Styles for larger tablets and laptops */
+
+}
+
+
+@media(min-width: 1140px) {
+
+	/* Styles for desktops */
+
+}
+
+

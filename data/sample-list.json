@@ -1,0 +1,20 @@
+{
+    "page_title": "Sample List Page",
+    "page_lead": "Welcome to the sample list! It's the best.",
+    "people": [
+        { 
+            "first_name": "Jerry",
+            "last_name": "Thomas", 
+            "phone": "1234567890", 
+            "email": "blue@blazer.com",
+            "img_src": "assets/img/jerry.jpg"
+        },
+        { 
+            "first_name": "Dale",
+            "last_name": "Degroff", 
+            "phone": "1234567890", 
+            "email": "rainbow@room.com",
+            "img_src": "assets/img/dale.jpg"
+        }
+    ]
+}
