@@ -34,24 +34,14 @@
 
     <div class="wrapper">
 
-        <header class="app-header">
-            <h1>My App Title</h1>
-            <nav>
-                <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="sample-list.php">Example List</a></li>
-                </ul>
-            </nav>
-        </header> <!-- /.app-header -->
+        <?php include('partials/header.php'); ?>
         
         <div id="main" class="app-body">
             <img src="assets/img/loader.gif" class="app-loader">
         </div> <!-- /.app-body -->
-
-        <footer class="app-footer">
-            <p>&copy; Your name 2015</p>
-        </footer> <!-- /.app-footer -->
-
+        
+        <?php include('partials/header.php'); ?>
+        
     </div>
 
 </body> 
